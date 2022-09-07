@@ -1,2 +1,2 @@
 # JavaRepository
-Ejemplos de vectotes de Java para principiantes.
+Ejemplos de vectores de Java para principiantes.
